@@ -1,0 +1,50 @@
+{
+  "name": "Phome",
+  "version": "0.0.1",
+  "private": true,
+  "rnpm": {
+    "assets": [
+      "./assets/fonts",
+      "resources/fonts"
+    ]
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^5.4.1",
+    "moment": "^2.22.2",
+    "native-base": "^2.8.0",
+    "omise-react-native": "0.0.5",
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-action-button": "^2.8.5",
+    "react-native-awesome-alerts": "^1.1.0",
+    "react-native-fast-image": "^5.0.3",
+    "react-native-fbsdk": "^0.7.0",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-input-scroll-view": "^1.7.0",
+    "react-native-keyboard-aware-scroll-view": "^0.7.2",
+    "react-native-linear-gradient": "^2.4.2",
+    "react-native-masked-text": "^1.7.2",
+    "react-native-modal-datetime-picker": "^6.0.0",
+    "react-native-permissions": "^1.1.1",
+    "react-native-share": "^1.1.2",
+    "react-native-text-gradient": "0.0.15",
+    "react-native-vector-icons": "^5.0.0",
+    "react-native-view-shot": "^2.4.0",
+    "react-navigation": "^2.12.1",
+    "react-navigation-transitions": "^1.0.5",
+    "rn-fetch-blob": "^0.10.13"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.2",
+    "babel-preset-react-native": "5.0.2",
+    "jest": "23.5.0",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

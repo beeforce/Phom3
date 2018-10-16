@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/thunyapornpaoton/Phome_Project/node_modules/react-native/Libraries/Image/RCTImageView.m \
+  /Users/thunyapornpaoton/Phome_Project/node_modules/react-native/Libraries/Image/RCTImageView.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTConvert.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTDefines.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTLog.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTAssert.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTUtils.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/yoga/Yoga.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridge.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTImageSource.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/UIView+React.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTComponent.h \
+  /Users/thunyapornpaoton/Phome_Project/node_modules/react-native/Libraries/Image/RCTImageBlurUtils.h \
+  /Users/thunyapornpaoton/Phome_Project/node_modules/react-native/Libraries/Image/RCTImageLoader.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/thunyapornpaoton/Phome_Project/ios/build/Build/Products/Release-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/thunyapornpaoton/Phome_Project/node_modules/react-native/Libraries/Image/RCTImageUtils.h
